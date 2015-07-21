@@ -1,5 +1,5 @@
 
-Drupal 7.39, xxxx-xx-xx (development version)
+Drupal 7.666, xxxx-xx-xx (development version)
 -----------------------
 
 Drupal 7.38, 2015-06-17
